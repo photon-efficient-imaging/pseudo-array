@@ -1,5 +1,9 @@
 # Photon-Efficient Computational 3-D and Reflectivity Imaging With Single-Photon Detectors
 
+Sample code and data used in <\br>
+"Photon-Efficient Computational 3-D and Reflectivity Imaging With Single-Photon Detectors"
+
+BibTeX: <\br>
 @article{shin2015photon, <br>
   &nbsp;&nbsp; title={Photon-efficient computational 3-d and reflectivity imaging with single-photon detectors}, <br>
   &nbsp;&nbsp; author={Shin, Dongeek and Kirmani, Ahmed and Goyal, Vivek K and Shapiro, Jeffrey H}, <br>
