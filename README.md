@@ -1,7 +1,10 @@
 # Photon-Efficient Computational 3-D and Reflectivity Imaging With Single-Photon Detectors
 
-Sample code and data used in <br>
+Sample code and data used in the paper <br>
 "Photon-Efficient Computational 3-D and Reflectivity Imaging With Single-Photon Detectors"
+
+Link to paper: <br>
+http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7150537
 
 BibTeX: <br>
 @article{shin2015photon, <br>
